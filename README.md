@@ -1,0 +1,2 @@
+# Python-ChatBot
+A chatbot is an AI-based software designed to interact with humans in their natural languages. These chatbots are usually converse via auditory or textual methods, and they can effortlessly mimic human languages to communicate with human beings in a human-like manner. This Project was done by me under an Internship as an Assignment . Honestly , Now this chatbot has been feeded with Questions and answers of various types and Categories .   
